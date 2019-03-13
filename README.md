@@ -1,0 +1,1 @@
+This repository will hold code, notebooks, slides, and data related to tutorials on computational models of language change at [NAACL](https://naacl2019.org/program/tutorials/) and [IC2S2](https://2019.ic2s2.org/tutorials/).
