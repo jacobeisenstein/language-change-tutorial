@@ -16,5 +16,6 @@ pip install -r requirements.txt
 or
 
 ```
+conda create --name time_tutorial
 conda install --file requirements.txt
 ```
