@@ -20,7 +20,6 @@ entrypoints=0.3=py37_1000
 expat=2.2.5=hf484d3e_1002
 fontconfig=2.13.1=he4413a7_1000
 freetype=2.10.0=he983fc9_0
-future=0.17.1=pypi_0
 gdk-pixbuf=2.36.12=h4f1c04b_1001
 gettext=0.19.8.1=hc5be6a0_1002
 glib=2.56.2=had28632_1001
@@ -37,7 +36,6 @@ ipython_genutils=0.2.0=py_1
 ipywidgets=7.4.2=py_0
 jedi=0.13.3=py37_0
 jinja2=2.10.1=py_0
-joblib=0.13.2=pypi_0
 jpeg=9c=h14c3975_1001
 jsonschema=3.0.1=py37_0
 jupyter=1.0.0=py_2
@@ -67,7 +65,6 @@ mistune=0.8.4=py37h14c3975_1000
 nbconvert=5.4.1=py_2
 nbformat=4.4.0=py_1
 ncurses=6.1=hf484d3e_1002
-nose=1.3.7=pypi_0
 notebook=5.7.8=py37_0
 numpy=1.16.2=py37h8b7e671_1
 openblas=0.3.5=h9ac9557_1001
@@ -87,9 +84,7 @@ prometheus_client=0.6.0=py_0
 prompt_toolkit=2.0.9=py_0
 pthread-stubs=0.4=h14c3975_1001
 ptyprocess=0.6.0=py_1001
-pybasicbayes=0.2.2=pypi_0
 pygments=2.3.1=py_0
-pyhawkes=0.3.1=dev_0
 pyparsing=2.4.0=py_0
 pyqt=5.6.0=py37h13b7fb3_1008
 pyrsistent=0.14.11=py37h14c3975_0
