@@ -12,7 +12,7 @@ To ensure that you have all necessary packages, run:
 ```
 pip install --user conda #if necessary
 conda create --name time_tutorial --file requirements.txt
-source actviate time_tutorial
+source activate time_tutorial
 ```
 
 You can then launch the first notebook:
