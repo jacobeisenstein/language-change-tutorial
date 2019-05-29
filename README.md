@@ -3,7 +3,7 @@ Tutorial on Modeling Language Change
 
 This repository will hold code, notebooks, and slides related to tutorials on computational models of language change at [NAACL](https://naacl2019.org/program/tutorials/) and [IC2S2](https://2019.ic2s2.org/tutorials/).
 
-Data can be found at bitbucket: https://bitbucket.org/jacobeisenstein/language-change-tutorial-data
+In addition to the data here, two larger data files can be found at bitbucket: https://bitbucket.org/jacobeisenstein/language-change-tutorial-data
 
 # Installation
 
