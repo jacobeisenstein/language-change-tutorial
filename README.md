@@ -7,11 +7,11 @@ In addition to the data here, two larger data files can be found at bitbucket: h
 
 # Installation
 
-To ensure that you have all necessary packages, run:
+All notebooks are based on Python 3. To ensure that you have all necessary packages, create a new `conda` environment:
 
 ```
 pip install --user conda #if necessary
-conda create --name time_tutorial --file requirements.txt
+conda env create -f environment.yml
 source activate time_tutorial
 ```
 
