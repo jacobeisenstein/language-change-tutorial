@@ -18,6 +18,7 @@ source activate time_tutorial
 You can then launch the first notebook:
 
 ```
+cd notebooks
 jupyter-notebook HappierOnTheWeekend.ipynb
 ```
 
