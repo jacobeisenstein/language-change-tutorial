@@ -7,12 +7,12 @@ In addition to the data here, two larger data files can be found at bitbucket: h
 
 # Installation
 
-All notebooks are based on Python 3. To ensure that you have all necessary packages, create a new `conda` environment (update conda if it asks you to):
+All notebooks are based on Python 3. To ensure that you have all necessary packages, create a new `conda` environment and then actia(update conda if it asks you to):vte it:
 
 ```
 pip install --user conda #if necessary
-conda env create -f environment.yml
-source activate time_tutorial
+conda env create -f environment.yml # create the environment. update conda if it complains.
+source activate time_tutorial # activate the environment
 ```
 
 You can then launch the first notebook:
