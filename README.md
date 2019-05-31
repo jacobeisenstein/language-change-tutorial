@@ -7,7 +7,7 @@ In addition to the data here, two larger data files can be found at bitbucket: h
 
 # Installation
 
-All notebooks are based on Python 3. To ensure that you have all necessary packages, create a new `conda` environment and then actia(update conda if it asks you to):vte it:
+All notebooks are based on Python 3. To ensure that you have all necessary packages, create a new `conda` environment and then actiavte it (update conda if it asks you to).
 
 ```
 pip install --user conda #if necessary
