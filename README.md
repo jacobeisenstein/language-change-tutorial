@@ -22,7 +22,7 @@ cd notebooks
 jupyter-notebook HappierOnTheWeekend.ipynb
 ```
 
-The fourth notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes). This works on linux via `pip install --user pyhawkes`, but I'm not having success on mac via `pip` or `conda`. You may want to clone the repo directly: https://github.com/slinderman/pyhawkes
+The fourth notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes). This works on linux via `pip install --user pyhawkes autograd`, but I'm not having consistent success with this on mac. You may want to clone the repo directly: https://github.com/slinderman/pyhawkes
 
 # Data
 
