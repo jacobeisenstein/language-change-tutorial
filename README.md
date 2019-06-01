@@ -7,7 +7,7 @@ In addition to the data here, two larger data files can be found at bitbucket: h
 
 # Installation
 
-All notebooks are based on Python 3. To ensure that you have all necessary packages, create a new `conda` environment and then actiavte it (update conda if it asks you to).
+All notebooks are based on Python 3. To ensure that you have all necessary packages, create a new `conda` environment and then activate it (update conda if it asks you to).
 
 ```
 pip install --user conda #if necessary
@@ -22,7 +22,7 @@ cd notebooks
 jupyter-notebook HappierOnTheWeekend.ipynb
 ```
 
-The fourth notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes). This works on linux via `pip install --user pyhawkes autograd`, but I'm not having consistent success with this on mac. You may want to clone the repo directly: https://github.com/slinderman/pyhawkes
+The fourth notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes). This works on linux via `pip install --user pyhawkes autograd`, but I'm not having consistent success with this on mac. If you have trouble, you may want to clone the repo directly: https://github.com/slinderman/pyhawkes
 
 # Data
 
