@@ -73,7 +73,6 @@ pandas=0.24.2=py37hf484d3e_0
 pandoc=2.7.2=0
 pandocfilters=1.4.2=py_1
 pango=1.40.14=hf0c64fd_1003
-parso=0.4.0=py_0
 patsy=0.5.1=py_0
 pcre=8.43=he6710b0_0
 pexpect=4.7.0=py37_0
