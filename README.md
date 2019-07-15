@@ -19,14 +19,14 @@ conda env create -f environment.yml # create the environment. update conda if it
 source activate time_tutorial # activate the environment
 ```
 
-You can then launch the first notebook:
+You can then launch a notebook as follows:
 
 ```
-cd notebooks
+cd ic2s2-notebooks
 jupyter-notebook HappierOnTheWeekend.ipynb
 ```
 
-The fourth notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes). This works on linux via `pip install --user pyhawkes autograd`, but I'm not having consistent success with this on mac. If you have trouble, you may want to clone the repo directly: https://github.com/slinderman/pyhawkes
+The `FollowTheLeader.ipynb` notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes) using `pip install --user pyhawkes autograd`. If you have trouble, you may want to clone the repo directly [here](https://github.com/slinderman/pyhawkes).
 
 # Data
 
@@ -36,5 +36,10 @@ To get the additional data files, run:
 git clone https://bitbucket.org/jacobeisenstein/language-change-tutorial-data.git
 ```
 
-Or, alternatively, you can run `download_data.sh` which will download all the data and setup the symbolic links for you.
+Alternatively, you can run 
+
+```
+bash download_data.sh
+``` 
+which will download all the data and setup the symbolic links for you.
 
