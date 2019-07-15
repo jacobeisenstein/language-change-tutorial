@@ -26,7 +26,7 @@ cd ic2s2-notebooks
 jupyter-notebook HappierOnTheWeekend.ipynb
 ```
 
-The `FollowTheLeader.ipynb` notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes) using `pip install --user pyhawkes autograd`. If you have trouble, you may want to clone the repo directly [here](https://github.com/slinderman/pyhawkes).
+The `FollowTheLeader.ipynb` notebook requires you to install [pyhawkes](https://github.com/slinderman/pyhawkes) using `pip install --user pyhawkes autograd` (Linux) or `~/miniconda3/envs/time_tutorial/bin/pip install pyhawkes autograd` (Mac). If you have trouble, you may want to clone the repo directly [here](https://github.com/slinderman/pyhawkes).
 
 # Data
 
